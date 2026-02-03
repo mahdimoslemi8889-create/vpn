@@ -20,3 +20,5 @@ PROXYIP = "nima.nscl.ir"
 # [[rules]]
 # type = "ESModule"
 # globs = ["**/*.js"]
+# wrangler.toml
+name = 'square-breeze-7f4fre'
