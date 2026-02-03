@@ -22,3 +22,17 @@ PROXYIP = "nima.nscl.ir"
 # globs = ["**/*.js"]
 # wrangler.toml
 name = 'square-breeze-7f4fre'
+[observability]
+enabled = false
+head_sampling_rate = 1
+
+[observability.logs]
+enabled = true
+head_sampling_rate = 1
+persist = true
+invocation_logs = true
+
+[observability.traces]
+enabled = true
+persist = true
+head_sampling_rate = 1
