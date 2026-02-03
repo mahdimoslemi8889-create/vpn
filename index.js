@@ -23,7 +23,7 @@ import { connect } from "cloudflare:sockets";
  */
 
 const Config = {
-  userID: "e058a85e-fc02-4df8-ae06-6cf82af356ef",
+  userID: "81e3b22b-fa18-440b-8075-17a0221297ba",
 
   proxyIPs: ["nima.nscl.ir:443"],
 
