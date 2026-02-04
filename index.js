@@ -25,7 +25,15 @@ import { connect } from "cloudflare:sockets";
 const Config = {
   userID: "81e3b22b-fa18-440b-8075-17a0221297ba",
 
-  proxyIPs: ["nima.nscl.ir:443"],
+  proxyIPs: ['turk.radicalization.ir',
+            'bpb.yousef.isegaro.com',
+            'turk.radicalization.ir',
+            '2a09:bac5:27bb:2478::3a2:53',
+            '2a09:bac5:a5fc:8c::e:2f9',
+            '2a09:bac1:76a0:3d0::26a:2a',
+            '2a09:bac5:4e27:c8::14:2ba',
+            '2a09:bac5:4e20:26fa::3e2:38',
+             '103.7.54.214'],
 
   scamalytics: {
     username: "",
