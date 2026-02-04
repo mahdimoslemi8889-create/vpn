@@ -1,4 +1,4 @@
-name = "square-breeze-7f4fre"
+name = "mahdi"
 main = "index.js"
 compatibility_date = "2025-11-09"
 workers_dev = true
@@ -12,7 +12,7 @@ minify = false
 
 [vars]
 UUID = "81e3b22b-fa18-440b-8075-17a0221297ba"
-PROXYIP =
+PROXYIP = "turk.radicalization.ir"
 
 # [build]
 # command = "npm run deploy"
@@ -21,7 +21,7 @@ PROXYIP =
 # type = "ESModule"
 # globs = ["**/*.js"]
 # wrangler.toml
-name = 'square-breeze-7f4fre'
+name = "square-breeze-7f4fre"
 [observability]
 enabled = false
 head_sampling_rate = 1
